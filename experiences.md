@@ -20,13 +20,13 @@ slug: /experiences
 
 ### Selected Awards
 <p>
-    Leaders of Tomorrow Scholarship at Tsinghua-Berkeley Shenzhen Insititute, Tsinghua University, 2021, 2024
+    - Leaders of Tomorrow Scholarship at Tsinghua-Berkeley Shenzhen Insititute, Tsinghua University, 2021, 2024
 
-    Excellent Student Scholarship at Tsinghua Shenzhen International Graduate School, Tsinghua University, 2022, 2024
+    - Excellent Student Scholarship at Tsinghua Shenzhen International Graduate School, Tsinghua University, 2022, 2024
 
-    Merit Student at School of Economics and Management, UCAS, 2018
+    - Merit Student at School of Economics and Management, UCAS, 2018
 
-    Outstanding Graduate at Beijing Jiaotong University (Top 10\%), 2017
+    - Outstanding Graduate at Beijing Jiaotong University (Top 10\%), 2017
 </p>
 
 
