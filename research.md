@@ -42,6 +42,4 @@ slug: /research
   - <em>Science and Technology Management Research</em>, 2020
 </p>
 
-
-This is an example of a "Research" page, displaying a list of posts.
 <br />
