@@ -43,7 +43,7 @@ slug: /research
   5. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
   
   - with Wei Dang, Xin Tian, Zhijuan Kang
-  - 
+    
   - <em>Science and Technology Management Research</em>, 2020
 </p>
 
