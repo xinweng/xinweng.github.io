@@ -6,7 +6,7 @@ slug: /research
 
 ## Under Review
 <p>
-  1. Service Deployment in the Gig Economy: Employees, Contractors, or Both? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616847">[SSRN Link]</a>
+  1. Service Deployment in the Gig Economy: Employees, Contractors, or Both? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616847">[SSRN Link]</a> <a href="https://arxiv.org/abs/2411.06793">[arXiv Link]</a>
   
   - with Lijian Lu, Li Xiao
   - Under Review at <em>Manufacturing \& Service Operations Management</em>
