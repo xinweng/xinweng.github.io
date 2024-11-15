@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  I received my M.S. degree (2020) in Management Science and Engineering from <a herf="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a> and B.Eng. degree (2017) in Communication Engineering from <a herf="http://en.njtu.edu.cn">Beijing Jiaotong University</a>.
+  I received my M.S. degree (2020) in Management Science and Engineering from <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a> and B.Eng. degree (2017) in Communication Engineering from <a href="http://en.njtu.edu.cn">Beijing Jiaotong University</a>.
 </p>
 
 <p>
