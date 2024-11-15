@@ -14,7 +14,7 @@ header:
     - name: About
       slug: /
     - name: Research
-    - name: Experience
+    - name: Experiences
 
 footer:
   show_powered_by: true
