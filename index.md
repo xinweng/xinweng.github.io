@@ -26,6 +26,6 @@ profile_picture:
 </p>
 
 <p>
-For more information, please refer to my CV.
+For more information, please refer to my [CV](./assets/CV_XinWENG.pdf).
 </p>
 
