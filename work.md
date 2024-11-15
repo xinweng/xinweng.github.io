@@ -3,7 +3,7 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: Service Deployment in the Gig Economy: Employees, Contractors, or Both?
     image:
       src: /assets/img/work/water.png
       alt: water
