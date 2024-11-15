@@ -6,7 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  This is Xin Weng, a fifth-year Ph.D. candidate, in Management Science and Engineering, at Tsinghua University. 
+
+  My advisor is Prof. Li Xiao.
+
+  I received a M.S. degree (2020) in Management Science and Engineering from University of Chinese Academy of Sciences and B.Eng. degree (2017) in Communication Engineering from Beijing Jiaotong University.
 </p>
 
 <p>
