@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  This is Xin Weng, a fifth-year Ph.D. candidate, in Management Science and Engineering, at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. 
+  This is Xin Weng (翁欣), a fifth-year Ph.D. candidate, in Management Science and Engineering, at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. 
 </p>
 
 <p>
