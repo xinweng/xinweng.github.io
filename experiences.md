@@ -23,7 +23,7 @@ slug: /experiences
   <ul>
 <li>Leaders of Tomorrow Scholarship at Tsinghua-Berkeley Shenzhen Insititute, Tsinghua University, 2021, 2024 </li>
 <li>Excellent Student Scholarship at Tsinghua Shenzhen International Graduate School, Tsinghua University, 2022, 2024</li>
-<li>Merit Student at School of Economics and Management, UCAS, 2018</li>
+<li>Merit Student at School of Economics and Management, University of Chinese Academy of Sciences, 2018 </li>
 <li>Outstanding Graduate at Beijing Jiaotong University (Top 10%), 2017</li>
 </ul>
 </p>
