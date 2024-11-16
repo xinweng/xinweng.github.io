@@ -28,5 +28,3 @@ slug: /experiences
 </ul>
 </p>
 
-
-<br />
