@@ -29,3 +29,4 @@ profile_picture:
 For more information, please refer to my <a href="https://github.com/xinweng/xinweng.github.io/blob/master/assets/CV_XinWENG.pdf">CV</a>.
 </p>
 
+<p>Contact: wengx20@mail.tsinghua.edu.cn / xinweng@ust.hk </p>
