@@ -25,8 +25,10 @@ profile_picture:
   I received my M.S. degree (2020) in Management Science and Engineering from <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a> and B.Eng. degree (2017) in Communication Engineering from <a href="http://en.njtu.edu.cn">Beijing Jiaotong University</a>.
 </p>
 
+<p>Contact: wengx20@mails.tsinghua.edu.cn / xinweng@ust.hk </p>
+
 <p>
 For more information, please refer to my <a href="https://github.com/xinweng/xinweng.github.io/blob/master/assets/CV_XinWENG.pdf">CV</a>.
 </p>
 
-<p>Contact: wengx20@mail.tsinghua.edu.cn / xinweng@ust.hk </p>
+
