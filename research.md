@@ -53,5 +53,3 @@ slug: /research
     <li>with Wei Dang, Xin Tian, Zhijuan Kang. <em>Science and Technology Management Research</em>. 2020,40(18):63-71.</li>
   </ul>
 
-
-<br />
