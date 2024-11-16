@@ -31,7 +31,7 @@ slug: /research
     <li>with Lijian Lu, Li Xiao</li>
     <li>Under Review at <em>IISE Transactions</em></li>
     <li>Talks: 4th National Conference on Supply Chain and Operation Management (ISCOM 2023) at Shanghai, China (2023.12); 14th POMS-HK International Conference at Hong Kong, China (2024.01)</li> 
-    <li>Best Conference Paper at ISCOM 2023</li>
+    <li>One of the Best Conference Papers at ISCOM 2023</li>
   </ul>
 
 
