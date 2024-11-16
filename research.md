@@ -10,7 +10,7 @@ slug: /research
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li>Under Review at <em>Manufacturing \& Service Operations Management</em></li>
+    <li>Under Review at <em>Manufacturing & Service Operations Management</em></li>
   </ul>
 
 
