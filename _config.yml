@@ -16,8 +16,8 @@ header:
     - name: Research
     - name: Experiences
 
-footer:
-  show_powered_by: false
+# footer:
+#   show_powered_by: false
   # contact:
   #   - type: email
   #     name: Email
