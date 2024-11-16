@@ -11,7 +11,7 @@ slug: /research
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
     <li>Under Review at <em>Manufacturing \& Service Operations Management</em></li>
-    <li>Talks: 33rd Annual POMS-Conference at Orlando, U.S. (2023.05); INFORMS MSOM 2023 at Montreal, Canada (2023.06);  15th International Annual Conference of the Chinese Scholars Association for Management Science and Engineering (CSAMSE 2023) at Shenzhen, China (2023.07)
+    <li>Talks: 33rd Annual POMS-Conference at Orlando, U.S. (2023.05); INFORMS MSOM 2023 at Montreal, Canada (2023.06);  15th International Annual Conference of the Chinese Scholars Association for Management Science and Engineering (CSAMSE 2023) at Shenzhen, China (2023.07) </li>
   </ul>
 
 
@@ -21,7 +21,7 @@ slug: /research
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
     <li>Under Review at <em>Production and Operations Management</em> </li>
-    <li>Talks: 4th National Conference on Supply Chain and Operation Management (ISCOM 2023) at Shanghai, China (2023.12); 14th POMS-HK International Conference at Hong Kong, China (2024.01)
+    <li>Talks: 4th National Conference on Supply Chain and Operation Management (ISCOM 2023) at Shanghai, China (2023.12); 14th POMS-HK International Conference at Hong Kong, China (2024.01)</li>
   </ul>
 
 
