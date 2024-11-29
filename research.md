@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Research
+title: 
 slug: /research
 ---
 ## Research Interests
