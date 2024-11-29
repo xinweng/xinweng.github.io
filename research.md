@@ -3,6 +3,14 @@ layout: blog
 title: Research
 slug: /research
 ---
+## Research Interests
+Applications: service operations, socially responsible operations, sharing economy, supply chain management.
+
+Methodologies: optimization, game theory, queueing theory, applied probability, empirical methods.
+
+
+
+## Papers
 
 ### Under Review
 <p>
