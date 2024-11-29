@@ -42,10 +42,15 @@ slug: /research
     <li>To be submmitted</li>
   </ul>
 
-
+<p>
+5. Privacy Disclosure and Priority Assignment.</p>
+<ul>
+<li>with Lijian Lu, Li Xiao</li>
+</ul>
+  
 ### Publications
 <p>
-  5. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
+  6. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
 </p>
   <ul>
     <li>with Wei Dang, Xin Tian, Zhijuan Kang. <em>Science and Technology Management Research</em>. 2020,40(18):63-71.</li>
