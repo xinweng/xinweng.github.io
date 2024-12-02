@@ -14,9 +14,10 @@ slug: /experiences
 </p>
 
 ### Academic Services 
-<p>
-  Session chair for CSAMSE 2024.
-</p>
+<ul>
+  <li>Session chair for CSAMSE 2024. </li>
+  <li>Session chair for POMS-HK 2025. </li>
+</ul>
 
 ### Selected Awards
 <p>
