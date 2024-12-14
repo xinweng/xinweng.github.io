@@ -3,16 +3,16 @@ layout: blog
 title: Research
 slug: /research
 ---
-## Research Interests
+### Research Interests
 Applications: service operations, socially responsible operations, sharing economy, supply chain management.
 
 Methodologies: optimization, game theory, queueing theory, applied probability, empirical methods.
 
 
 
-## Papers
+### Papers
 
-### Under Revision
+#### Under Revision
 <p>
   1. Pricing and Information Provision in Service Platforms with Heterogeneous Customers. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013751">[SSRN Link]</a> 
 </p>
@@ -39,7 +39,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
   </ul>
 
 
-### Working Papers
+#### Working Papers
 <p>
   4. Price Fairness Regulation in Service Systems.
 </p>
@@ -62,7 +62,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 <li>with Lijian Lu, Li Xiao</li>
 </ul>
   
-### Publications
+#### Publications
 <p>
   7. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
 </p>
@@ -70,7 +70,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
     <li>with Wei Dang, Xin Tian, Zhijuan Kang. <em>Science and Technology Management Research</em>. 2020,40(18):63-71.</li>
   </ul>
 
-## Talks
+### Talks
 <p> Pricing and Information Provision in Service Platforms with Heterogeneous Customers. </p>
 <ul>
   <li>The 33rd Annual POMS-Conference at Orlando, U.S. 2023.05</li>
