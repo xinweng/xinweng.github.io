@@ -4,7 +4,7 @@ title: Experiences
 slug: /experiences
 ---
 
-### Teaching
+## Teaching
 <p>
   Teaching Assistant for <em>Operations Management</em> (Autumn 2021, an English-taught course) at Tsinghua University 
 <ul>
@@ -13,13 +13,13 @@ slug: /experiences
 </ul>
 </p>
 
-### Academic Services 
+## Academic Services 
 <ul>
   <li>Session chair for CSAMSE 2024. </li>
   <li>Session chair for POMS-HK 2025. </li>
 </ul>
 
-### Selected Awards
+## Selected Awards
 <p>
   <ul>
 <li>Leaders of Tomorrow Scholarship at Tsinghua-Berkeley Shenzhen Insititute, Tsinghua University, 2021, 2024 </li>
