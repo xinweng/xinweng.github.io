@@ -31,4 +31,5 @@ profile_picture:
 For more information, please refer to my <a href="https://github.com/xinweng/xinweng.github.io/blob/master/assets/CV_XinWENG.pdf" target="_blank">CV</a>.
 </p>
 
+<p>Last Updated: 14 Dec, 2024</p>
 
