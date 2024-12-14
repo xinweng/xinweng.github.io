@@ -18,7 +18,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li>**Major Revision** at <em>Production and Operations Management</em> after the first round of review  </li>
+    <li><b>Major Revision</b> at <em>Production and Operations Management</em> after the first round of review  </li>
   </ul>
   
   <p>
@@ -26,7 +26,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li> **Reject and Resubmit** at <em>Manufacturing & Service Operations Management</em> </li>
+    <li><b>Reject and Resubmit</b> at <em>Manufacturing & Service Operations Management</em> </li>
   </ul>
 
 <p>
@@ -34,7 +34,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li>**Major Revision** at <em>IISE Transactions</em> after the first round of review</li>
+    <li><b>Major Revision</b> at <em>IISE Transactions</em> after the first round of review</li>
     <li>Honorable Mention in ISCOM 2023 Best Conference Paper Competition</li>
   </ul>
 
@@ -91,4 +91,5 @@ Price Fairness Regulation in Service Systems.
 <li> The 16th International Annual Conference of the Chinese Scholars Association for Management Science and Engineering (CSAMSE 2024) at Xiamen, China  2024.07  </li> 
 </ul>
 
+<p>Last Updated: 14 Dec, 2024</p>
 
