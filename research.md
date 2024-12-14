@@ -12,31 +12,29 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 
 ## Papers
 
-### Under Review
+### Under Revision
 <p>
-  1. Service Deployment in the Gig Economy: Employees, Contractors, or Both? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616847">[SSRN Link]</a> <a href="https://arxiv.org/abs/2411.06793">[arXiv Link]</a> 
+  1. Pricing and Information Provision in Service Platforms with Heterogeneous Customers. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013751">[SSRN Link]</a> 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li>Under Review at <em>Manufacturing & Service Operations Management</em></li>
+    <li>**Major Revision** at <em>Production and Operations Management</em> after the first round of review  </li>
   </ul>
-
-
-<p>
-  2. Pricing and Information Provision in Service Platforms with Heterogeneous Customers. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013751">[SSRN Link]</a> 
+  
+  <p>
+  2. Service Deployment in the Gig Economy: Employees, Contractors, or Both? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616847">[SSRN Link]</a> <a href="https://arxiv.org/abs/2411.06793">[arXiv Link]</a> 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li>Under Review at <em>Production and Operations Management</em> </li>
+    <li> **Reject and Resubmit** at <em>Manufacturing & Service Operations Management</em> </li>
   </ul>
-
 
 <p>
   3. The Value of Adding On-demand Service with Price- and Waiting-Sensitive Customers. 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
-    <li>Under Review at <em>IISE Transactions</em></li>
+    <li>**Major Revision** at <em>IISE Transactions</em> after the first round of review</li>
     <li>Honorable Mention in ISCOM 2023 Best Conference Paper Competition</li>
   </ul>
 
@@ -50,15 +48,23 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
     <li>To be submmitted</li>
   </ul>
 
+
+<p> 
+  5. Fairness Regulation in Competitive Service Markets. </p>
+<ul>
+<li>with Lijian Lu, Li Xiao</li>
+</ul>
+
+
 <p>
-5. Privacy Disclosure and Priority Assignment.</p>
+6. Privacy Disclosure and Priority Assignment.</p>
 <ul>
 <li>with Lijian Lu, Li Xiao</li>
 </ul>
   
 ### Publications
 <p>
-  6. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
+  7. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
 </p>
   <ul>
     <li>with Wei Dang, Xin Tian, Zhijuan Kang. <em>Science and Technology Management Research</em>. 2020,40(18):63-71.</li>
