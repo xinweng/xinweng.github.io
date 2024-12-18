@@ -62,13 +62,6 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 <li>with Lijian Lu, Li Xiao</li>
 </ul>
   
-### Publications
-<p>
-  7. Evaluation of Payload Components Supplier for Manned Space Station: Based on Monte Carlo DEA Analysis.
-</p>
-  <ul>
-    <li>with Wei Dang, Xin Tian, Zhijuan Kang. <em>Science and Technology Management Research</em>. 2020,40(18):63-71.</li>
-  </ul>
 
 ## Talks
 <p> Pricing and Information Provision in Service Platforms with Heterogeneous Customers. </p>
