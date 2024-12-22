@@ -25,9 +25,7 @@ profile_picture:
   I received my M.S. degree (2020) in Management Science and Engineering from <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a> and B.Eng. degree (2017) in Communication Engineering from <a href="http://en.njtu.edu.cn">Beijing Jiaotong University</a>.
 </p>
 
-<b>I am on the 2024-2025 academic job market.
-
-I will be attending the POMS-HK 2025 conference and would be happy to arrange an on-site interview during the event.</b>
+<b>I am on the 2024-2025 academic job market. I will be attending the POMS-HK 2025 conference and would be happy to arrange an on-site interview during the event.</b>
 
 <p>You can reach me at: wengx20@mails.tsinghua.edu.cn / xinweng@ust.hk </p>
 
