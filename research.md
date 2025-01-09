@@ -22,21 +22,22 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
   </ul>
   
   <p>
-  2. Service Deployment in the Gig Economy: Employees, Contractors, or Both? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616847">[SSRN Link]</a> <a href="https://arxiv.org/abs/2411.06793">[arXiv Link]</a> 
-</p>
-  <ul>
-    <li>with Lijian Lu, Li Xiao</li>
-    <li><b>Reject and Resubmit</b> at <em>Manufacturing & Service Operations Management</em> </li>
-  </ul>
-
-<p>
-  3. The Value of Adding On-demand Service with Price- and Waiting-Sensitive Customers. 
+  2. The Value of Adding On-demand Service with Price- and Waiting-Sensitive Customers. 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao</li>
     <li><b>Major Revision</b> at <em>IISE Transactions</em> after the first round of review</li>
     <li>Honorable Mention in ISCOM 2023 Best Conference Paper Competition</li>
   </ul>
+
+  <p>
+  3. Service Deployment in the Gig Economy: Employees, Contractors, or Both? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616847">[SSRN Link]</a> <a href="https://arxiv.org/abs/2411.06793">[arXiv Link]</a> 
+</p>
+  <ul>
+    <li>with Lijian Lu, Li Xiao</li>
+    <li><b>Reject and Resubmit</b> at <em>Manufacturing & Service Operations Management</em> </li>
+  </ul>
+
 
 
 ### Working Papers
