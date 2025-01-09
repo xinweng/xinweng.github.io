@@ -50,7 +50,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
   </ul>
 
 <p>
-  5.How Promotional Strategies Shape Return Behaviors? Theory and Empirical Evi-
+  5. How Promotional Strategies Shape Return Behaviors? Theory and Empirical Evi-
 dence from Live-streaming E-commerce.
   <ul>
     <li>with Oliver Wei, Jiali Zhou </li>
