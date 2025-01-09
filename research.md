@@ -84,5 +84,3 @@ Price Fairness Regulation in Service Systems.
 <li> The 16th International Annual Conference of the Chinese Scholars Association for Management Science and Engineering (CSAMSE 2024) at Xiamen, China  2024.07  </li> 
 </ul>
 
-<p>Last Updated: 14 Dec, 2024</p>
-
