@@ -69,7 +69,6 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 </ul>
 
 
-
 ## Talks
 <p> Pricing and Information Provision in Service Platforms with Heterogeneous Customers. </p>
 <ul>
