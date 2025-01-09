@@ -40,7 +40,7 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 
 
 
-### Working Papers
+### Working Papers / Work-in-Progress
 <p>
   4. Price Fairness Regulation in Service Systems.
 </p>
@@ -49,20 +49,27 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
     <li>To be submmitted</li>
   </ul>
 
+<p>
+  5.How Promotional Strategies Shape Return Behaviors? Theory and Empirical Evi-
+dence from Live-streaming E-commerce.
+  <ul>
+    <li>with Oliver Wei, Jiali Zhou </li>
+  </ul>
 
 <p> 
-  5. Fairness Regulation in Competitive Service Markets. </p>
+  6. Fairness Regulation in Competitive Service Markets. </p>
 <ul>
 <li>with Lijian Lu, Li Xiao</li>
 </ul>
 
 
 <p>
-6. Privacy Disclosure and Priority Assignment.</p>
+7. Privacy Disclosure and Priority Assignment.</p>
 <ul>
 <li>with Lijian Lu, Li Xiao</li>
 </ul>
-  
+
+
 
 ## Talks
 <p> Pricing and Information Provision in Service Platforms with Heterogeneous Customers. </p>
