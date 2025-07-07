@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  This is Xin Weng (翁欣), a final-year Ph.D. candidate, in Management Science and Engineering, at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. 
+  This is Xin Weng (翁欣), a Ph.D. graduate in Management Science and Engineering from <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>. 
 </p>
 
 <p>
@@ -25,13 +25,7 @@ profile_picture:
   I received my M.S. degree (2020) in Management Science and Engineering from <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a> and B.Eng. degree (2017) in Communication Engineering from <a href="http://en.njtu.edu.cn">Beijing Jiaotong University</a>.
 </p>
 
-<b>I am on the 2024-2025 academic job market. </b>
-
 <p>You can reach me at: wengx20@mails.tsinghua.edu.cn / xinweng@ust.hk </p>
 
-<p>
-For more information, please refer to my <a href="https://github.com/xinweng/xinweng.github.io/blob/master/assets/XinWeng_CV.pdf" target="_blank">CV</a>.
-</p>
-
-<p>Last Updated: 9 Jan, 2025</p>
+<p>Last Updated: 7 July, 2025</p>
 
