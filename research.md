@@ -46,28 +46,16 @@ Methodologies: optimization, game theory, queueing theory, applied probability, 
 </p>
   <ul>
     <li>with Lijian Lu, Li Xiao  </li>
-    <li>To be submmitted</li>
+    <li>To be submmitted (draft available) </li>
+    <li>Poster presentation at INFORMS MSOM 2025 </li>
   </ul>
 
 <p>
-  5. How Promotional Strategies Shape Return Behaviors? Theory and Empirical Evidence from Live-streaming E-commerce.
+  5. Nudge or Sludge? Streamers’ Selling Tactics and Consumer Behavior: Theory and Evidence. </p>
   <ul>
-    <li>with Oliver Wei, Jiali Zhou </li>
+    <li> with Oliver Wei, Jiali Zhou, Weiyin Hong, Amit Mehra </li>
+    <li> Oral presentation at SCECR 2025</li>
   </ul>
-
-<p> 
-  6. Fairness Regulation in Competitive Service Markets. </p>
-<ul>
-<li>with Lijian Lu, Li Xiao</li>
-</ul>
-
-
-<p>
-7. Privacy Disclosure and Priority Assignment.</p>
-<ul>
-<li>with Lijian Lu, Li Xiao</li>
-</ul>
-
 
 ## Talks
 <p> Pricing and Information Provision in Service Platforms with Heterogeneous Customers. </p>
@@ -88,6 +76,7 @@ Price Fairness Regulation in Service Systems.
 </p>
 <ul>
 <li> The 16th International Annual Conference of the Chinese Scholars Association for Management Science and Engineering (CSAMSE 2024) at Xiamen, China  2024.07  </li> 
-<li>The 15th POMS-HK International Conference at Hong Kong, China 2025.01</li>
+<li> The 15th POMS-HK International Conference at Hong Kong, China 2025.01</li>
+<li> INFORMS MSOM 2025 at London,UK  2025.06</li></li>
 </ul>
 
