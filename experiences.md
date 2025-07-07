@@ -17,6 +17,7 @@ slug: /experiences
 <ul>
   <li>Session chair for CSAMSE 2024. </li>
   <li>Session chair for POMS-HK 2025. </li>
+  <li>Peer Career Adviser at Tsinghua Shenzhen International Graduate School.</li>
 </ul>
 
 ## Selected Awards
