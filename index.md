@@ -14,11 +14,11 @@ profile_picture:
 </p>
 
 <p>
-  I was a visiting student (2022-2023) in the <a href="https://ieor.berkeley.edu">IEOR Department</a> at <a href="https://www.berkeley.edu">UC Berkeley</a>, advised by Prof. <a href="https://shen.ieor.berkeley.edu">Zuo-Jun (Max) Shen</a>. 
+  Currently, I am a visting student in the <a href="https://isom.hkust.edu.hk">ISOM Department</a> at <a href="https://hkust.edu.hk">Hong Kong University of Science and Technology</a>, under the guidance of Prof. <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/lijianlu">Lijian Lu</a>.
 </p>
 
 <p>
-  Currently, I am a visting student in the <a href="https://isom.hkust.edu.hk">ISOM Department</a> at <a href="https://hkust.edu.hk">Hong Kong University of Science and Technology</a>, under the guidance of Prof. <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/lijianlu">Lijian Lu</a>.
+  I was a visiting student (2022-2023) in the <a href="https://ieor.berkeley.edu">IEOR Department</a> at <a href="https://www.berkeley.edu">UC Berkeley</a>, advised by Prof. <a href="https://shen.ieor.berkeley.edu">Zuo-Jun (Max) Shen</a>. 
 </p>
 
 <p>
